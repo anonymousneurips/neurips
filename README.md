@@ -1,6 +1,3 @@
-This library corresponds to the " Neural Linear Bandits: Overcoming Catastrophic Forgetting through Likelihood Matching". 
-Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian 
-Deep Networks for Thompson Sampling paper, published in ICLR 2018. We provide a benchmark to test 
-decision-making algorithms for contextual-bandits. In particular, the current library implements a 
-variety of algorithms (many of them based on approximate Bayesian Neural Networks and Thompson sampling), 
-and a number of real and syntethic data problems exhibiting a diverse set of properties.
+This library corresponds to the "Neural Linear Bandits: Overcoming Catastrophic Forgetting through Likelihood Matching" paper, that was anonymously submited to NeurIPS 2019.
+
+The code is based on the "Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling" github repository https://github.com/tensorflow/models/tree/master/research/deep_contextual_bandits, published in ICLR 2018.
