@@ -345,7 +345,7 @@ def main(argv):
   num_contexts = 4000
   tfn=400
   tfe=tfn*2
-  data_type = 'covertype'
+  data_type = 'statlog'
   l_sizes=[50]
   outdir  ="./"
 
